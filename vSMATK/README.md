@@ -1,6 +1,6 @@
 # vsmatk
 
-> simple accident manager
+> simple api for managing traffic accidents
 
 ## Build Setup
 
